@@ -1,0 +1,19 @@
+{
+  "name": "my123-simple-calculator",
+  "version": "2.0.1",
+  "description": "a simple calculator with typescript, Node,js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diya",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
